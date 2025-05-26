@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zinnith&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity) 
+![Leetcode Stats](https://leetcard.Zinnith.cool/ZinnithLinCool?theme=dark)
 ---
 [![](https://visitcount.itsvg.in/api?id=Zinnith&icon=4&color=3)](https://visitcount.itsvg.in)
 
