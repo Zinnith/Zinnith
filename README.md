@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨‍💻 Software Developer with strong expertise in Java, dedicated to writing clean, efficient, and scalable code.<br><br>💼 Currently interning at Benx Solutions, applying and expanding my Java development skills through real-world projects.<br><br>📚 Actively learning advanced Data Structures and Algorithms (DSA) and exploring popular Java frameworks to build robust applications.<br><br>🏆 Winner of the Sathyabama University Hackathon 2024 and 🥇 BITS Pilani National Hackathon 2025, showcasing my problem-solving ability and innovation.<br><br>🌱 Previously interned at ICAR-NBAIR, contributing to AI and IoT-based agricultural technology solutions.<br><br>🛠️ Proficient in Java programming, algorithmic problem-solving, and passionate about mastering new technologies.<br><br>🤝 Motivated to collaborate on challenging projects that deliver impactful software solutions.
+👉 [Visit My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/zinnitvmj2004/)
 
 
 ## 🌐 Socials:
@@ -22,8 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Zinnith&limit=5&theme=vue&combine_all_yearly_contributions=true)
 ### 🧠💻 LeetCode Status
 [![Leetcode Stats](https://leetcard.jacoblin.cool/zinnithvmj)](https://leetcode.com/u/zinnithvmj/)
-### Geek for Geeks Status
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/zinnitvmj2004/)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Zinnith&icon=4&color=3)](https://visitcount.itsvg.in)
 
