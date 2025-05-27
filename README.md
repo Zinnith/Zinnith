@@ -22,8 +22,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Zinnith&limit=5&theme=vue&combine_all_yearly_contributions=true)
 ### 🧠💻 LeetCode Status
 [![Leetcode Stats](https://leetcard.jacoblin.cool/zinnithvmj)](https://leetcode.com/u/zinnithvmj/)
-
-
+### Geek for Geeks Status
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/zinnitvmj2004/)
 ---
 [![](https://visitcount.itsvg.in/api?id=Zinnith&icon=4&color=3)](https://visitcount.itsvg.in)
 
